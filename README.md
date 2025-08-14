@@ -43,7 +43,7 @@ or
 "Hello, everybody!"
 ```
 
-Single or double quotation marks can contain a string variable..
+Single or double quotation marks can contain a string variable.
 
 What if we want to say hi to a special guest, like Neil deGrasse Tyson? When we wrap strings in single or double quotes, we can join them together using the `+` operator:
 
@@ -72,7 +72,7 @@ This is called _interpolation_.
 
 ## Lab
 
-You'll find a file called `index.js` in this directory. Your mission, should you choose to accept it, is to get its tests (in `tests/index-test.js`) to pass.
+You'll find a file called `index.js` in this directory. Your mission, should you choose to accept it, is to get its tests (in `test/index-test.js`) to pass.
 
 You can run the tests using the `learn` command in your terminal or the Learn IDE. Give that a go now.
 
